@@ -1,0 +1,19 @@
+hello
+good morning
+godd afternoon
+hello
+bad
+bad
+bad
+ok
+end
+if this
+if that
+ok
+good morning
+if this
+ok
+ok
+ok
+end
+bye

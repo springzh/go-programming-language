@@ -1,0 +1,9 @@
+hello
+good morning 2
+godd afternoon 3
+hello
+bad
+ok 1
+ok 1
+end
+bye1
